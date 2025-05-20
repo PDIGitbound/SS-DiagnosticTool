@@ -25,17 +25,17 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>6926a4039fe522107f44d8148124ab51</sys_id>
-        <sys_mod_count>0</sys_mod_count>
-        <sys_name>Create New</sys_name>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Create NewHGFDNG</sys_name>
         <sys_overrides/>
         <sys_package display_value="GitHub Integration" source="x_snc_github_integ">6be5288f9fa522107f44d8148124aba3</sys_package>
         <sys_policy/>
         <sys_scope display_value="GitHub Integration">6be5288f9fa522107f44d8148124aba3</sys_scope>
         <sys_update_name>sys_app_module_6926a4039fe522107f44d8148124ab51</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2025-05-20 20:52:37</sys_updated_on>
+        <sys_updated_on>2025-05-20 21:11:06</sys_updated_on>
         <timeline_page/>
-        <title>Create New</title>
+        <title>Create NewHGFDNG</title>
         <uncancelable>false</uncancelable>
         <view_name/>
         <window_name/>
